@@ -296,6 +296,11 @@ Prefab:
       propertyPath: m_TagString
       value: Breakable
       objectReference: {fileID: 0}
+    - target: {fileID: 114784828857106650, guid: 67ddb4aa6e66a424ab90392568b8ed01,
+        type: 2}
+      propertyPath: isAutoPlayEnabled
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 67ddb4aa6e66a424ab90392568b8ed01, type: 2}
   m_IsPrefabAsset: 0
@@ -712,7 +717,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4848681547713860, guid: c722904f5e12b5142bc6871769305503, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0.6
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 4848681547713860, guid: c722904f5e12b5142bc6871769305503, type: 2}
       propertyPath: m_LocalPosition.z
@@ -759,7 +764,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4908758129400818, guid: bf3170c7684eb9f489dd1ae35d25f32f, type: 2}
       propertyPath: m_LocalPosition.y
-      value: 0.25
+      value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 4908758129400818, guid: bf3170c7684eb9f489dd1ae35d25f32f, type: 2}
       propertyPath: m_LocalPosition.z
