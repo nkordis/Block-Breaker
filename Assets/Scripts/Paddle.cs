@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Paddle : MonoBehaviour {
 
-    [SerializeField] float screenWidthInUnits = 10.66f; //16f
+    [SerializeField] float screenWidthInUnits = 9f; //16f
     [SerializeField] float minX = 1f;
-    [SerializeField] float maxX = 9.5f; //15f
+    [SerializeField] float maxX = 8f; //15f
 
     //cashed references
     GameSession theGameSession;
